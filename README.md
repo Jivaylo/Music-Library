@@ -31,6 +31,9 @@ Add albums with details like title, artist, genre, release date, and label.
 Update album metadata.
 Retrieve individual or all albums.
 Delete unwanted records.
+
+
+-----------------------------
 Advanced Search
 Search by attributes like:
 Title
@@ -56,13 +59,14 @@ Database: MongoDB or an alternative database of your choice.
 
 ----------------------------
 Installation Steps
-Clone the repository:
-bash
-git clone https://github.com/FilipNedelchev20/Music-Library-.git
-cd MusicLibrary
+Clone the repository: bash
+git clone https://github.com/FilipNedelchev20/Music-Library-.git cd MusicLibrary
+
+
 Install dependencies:
 bash
 npm install
+
 
 Start the server:
 bash
@@ -107,11 +111,13 @@ Deploy to platforms like AWS, Azure, or Heroku.
 Contributing
 Contributions are welcome! Follow these steps to get started:
 
+----------------------------
 Fork the repository.
 Create a new branch (feature/your-feature-name).
 Commit your changes.
 Open a pull request for review.
 For detailed guidelines, refer to the CONTRIBUTING.md file.
 
+-----------------------------------
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project under the terms of the license.
